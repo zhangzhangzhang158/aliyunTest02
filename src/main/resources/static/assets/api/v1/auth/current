@@ -1,0 +1,11 @@
+{
+    "lastPasswordResetDate": "2020-03-08T16:00:00.000+0000",
+    "roles": [
+      "ROLE_USER","ROLE_SA"
+    ],
+    "id": "7A16B8B42A2B474181328EFA51184C29",
+    "email": "justin.test@gmail.com",
+    "username": "justin",
+    "tenant": "WPG",
+    "uuid": "86CA07064D964D6AA5536170FD118759"
+  }

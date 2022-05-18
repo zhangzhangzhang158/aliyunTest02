@@ -1,0 +1,46 @@
+{
+  "app": {
+      "title": "BPaaS",
+      "i18n": {
+          "language": "Language: {{language}}",
+          "languageList": {
+              "zh-tw": "Traditional Chinese",
+              "en": "English"
+          }
+      },
+      "Info": "Info",
+      "Success": "Success",
+      "Warn": "Warning",
+      "Error": "Error"
+  },
+  "field": {
+      "tenant": "Tenant",
+      "category": "Category",
+      "template-name": "Template Name",
+      "group": "Group Code",
+      "format": "Format",
+      "ou": "OU",
+      "vendor-id": "Vendor Code",
+      "vendor": "Vendor",
+      "vendor-site": "Vendor Site",
+      "brand": "Brand"
+  },
+  "message": {
+      "total-records": "{{records}} record(s) found!",
+      "no-data-found": "No Data found!"
+    },
+  "login": {
+      "tenant": "Tenant",
+      "username": "Username",
+      "password": "Password",
+      "forgot": "Forgot Password",
+      "actions": {
+          "login": "Login",
+          "logout": "Logout"
+      }
+  },
+  "welcome": {
+      "title": "Welcome",
+      "welcome-to-bpaas": "Welcome to BPaaS's RMA Service Center"
+  }
+}

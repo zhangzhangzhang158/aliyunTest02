@@ -1,0 +1,46 @@
+{
+  "app": {
+      "title": "BPaaS",
+      "i18n": {
+          "language": "語系: {{language}}",
+          "languageList": {
+              "zh-tw": "繁體中文",
+              "en": "英文"
+          }
+      },
+      "Info": "資訊",
+      "Success": "成功",
+      "Warn": "警告",
+      "Error": "錯誤"
+  },
+  "field": {
+      "tenant": "租戶",
+      "category": "功能類別",
+      "template-name": "範本名稱",
+      "group": "集團",
+      "format": "格式",
+      "ou": "公司別",
+      "vendor-id": "供應商編號",
+      "vendor": "供應商",
+      "vendor-site": "地點",
+      "brand": "產品線"
+  },
+  "message": {
+      "total-records": "查到 {{records}} 筆資料！",
+      "no-data-found": "查無資料！"
+  },
+  "login": {
+      "tenant": "租戶",
+      "username": "帳號",
+      "password": "密碼",
+      "forgot": "忘記密碼",
+      "actions": {
+          "login": "登入",
+          "logout": "登出"
+      }
+  },
+  "welcome": {
+      "title": "歡迎",
+      "welcome-to-bpaas": "歡迎使用 BPaaS RMA 服務中心"
+  }
+}
